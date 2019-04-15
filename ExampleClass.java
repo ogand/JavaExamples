@@ -4,5 +4,7 @@ public class ExampleClass {
 		System.out.println("Hello World");
 
 		System.out.println("Added1");
+
+		System.out.println("Added2");
 	}
 }
